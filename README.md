@@ -54,21 +54,13 @@
         </ul>
     </div>
 <!-- Output -->
-    <div class="section">
+     <div class="section">
         <h3>Project Output</h3>
         <div class="box">
-            <p>The project generated multiple visual insights such as:</p>
-            <ul>
-                <li>Bar charts showing gender-based transactions and sales</li>
-                <li>Pie chart representing gender distribution</li>
-                <li>Age group analysis of customers</li>
-                <li>Top-performing states based on sales and quantity</li>
-                <li>Best-selling product categories and products</li>
-                <li>Profession-wise purchasing behavior</li>
-            </ul>
-            <p>
-                These visualizations help in identifying trends, customer preferences, 
-                and business opportunities.
+            <p>🔗 
+                <a href="https://github.com/Pranita-Redekar/Exploratory-Data-Analysis-Python/blob/main/EDA_Project.pdf">
+                    View Project Output (Charts / Dashboard)
+                </a>
             </p>
         </div>
     </div>
