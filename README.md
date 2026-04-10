@@ -15,29 +15,17 @@
         </p>
     </div>
  <!-- Dataset -->
-    <div class="section">
-        <h3>Dataset Information</h3>
+     <div class="section">
+        <h3>Dataset</h3>
         <div class="box">
-            <p>
-                The dataset used in this project contains transaction-level data including:
-            </p>
-            <ul>
-                <li>Customer Gender</li>
-                <li>Age and Age Group</li>
-                <li>State</li>
-                <li>Product Category</li>
-                <li>Product Name</li>
-                <li>Quantity Ordered</li>
-                <li>Total Sales Amount</li>
-                <li>Customer Profession</li>
-            </ul>
-            <p>
-                The data was cleaned and processed using Python libraries like 
-                <span class="highlight">Pandas</span>.
+            <p>🔗 
+                <a href="https://github.com/Pranita-Redekar/Exploratory-Data-Analysis-Python/blob/main/Sales_Data.csv">
+                    View / Download Dataset
+                </a>
             </p>
         </div>
     </div>
- <!-- Objectives -->
+     <!-- Objectives -->
     <div class="section">
         <h3>Project Objectives</h3>
         <ul>
